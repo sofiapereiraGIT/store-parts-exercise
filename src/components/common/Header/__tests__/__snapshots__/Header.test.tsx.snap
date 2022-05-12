@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Tests Renders properly 1`] = `
+<header
+  className="sc-bczRLJ cMfLWl"
+>
+  <h1
+    className="sc-gsnTZi bVxfwA"
+    data-testid="headerTitle"
+    onClick={[Function]}
+  >
+    Store Parts
+  </h1>
+</header>
+`;

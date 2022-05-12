@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ItemDetails Tests Renders properly 1`] = `
+<div
+  className="sc-hKMtZM jFgHfc"
+>
+  <h2>
+    Item Details
+  </h2>
+  <div
+    className="sc-bczRLJ gtXPJG"
+  >
+    <div
+      className="sc-gsnTZi eDBMpS"
+    >
+      <span
+        className="sc-dkzDqf iBjklj"
+      >
+        name
+        :
+      </span>
+       
+      <span>
+        itemName
+      </span>
+    </div>
+    <div
+      className="sc-gsnTZi eDBMpS"
+    >
+      <span
+        className="sc-dkzDqf iBjklj"
+      >
+        type
+        :
+      </span>
+       
+      <span>
+        itemType
+      </span>
+    </div>
+    <div
+      className="sc-gsnTZi eDBMpS"
+    >
+      <span
+        className="sc-dkzDqf iBjklj"
+      >
+        price
+        :
+      </span>
+       
+      <span>
+        itemPrice
+      </span>
+    </div>
+  </div>
+</div>
+`;

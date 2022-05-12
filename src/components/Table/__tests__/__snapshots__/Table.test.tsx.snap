@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table Tests Renders properly when items are provided 1`] = `
+Array [
+  <table
+    aria-label="customized table"
+    className="MuiTable-root sc-gsnTZi dTKQAJ css-rqglhn-MuiTable-root"
+    role={null}
+  >
+    <thead
+      className="MuiTableHead-root sc-dkzDqf lnvFuf css-15wwp11-MuiTableHead-root"
+      role={null}
+    >
+      <tr
+        className="MuiTableRow-root MuiTableRow-head css-1q1u3t4-MuiTableRow-root"
+        role={null}
+      >
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium sc-hKMtZM dmwtRg css-1ygcj2i-MuiTableCell-root"
+          scope="col"
+        >
+          Name
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium sc-hKMtZM dmwtRg css-1ygcj2i-MuiTableCell-root"
+          scope="col"
+        >
+          Type
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignRight MuiTableCell-sizeMedium sc-hKMtZM dmwtRg css-1azl6jz-MuiTableCell-root"
+          scope="col"
+        >
+          Price
+        </th>
+      </tr>
+    </thead>
+    <tbody
+      className="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+      role={null}
+    >
+      <tr
+        className="MuiTableRow-root sc-eCYdqJ eKANlz css-1q1u3t4-MuiTableRow-root"
+        data-testid="bodyTableRow_0"
+        onClick={[Function]}
+        role={null}
+      >
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          itemName 1
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          itemType
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight MuiTableCell-sizeMedium css-177gid-MuiTableCell-root"
+        >
+          11$
+        </td>
+      </tr>
+      <tr
+        className="MuiTableRow-root sc-eCYdqJ eKANlz css-1q1u3t4-MuiTableRow-root"
+        data-testid="bodyTableRow_1"
+        onClick={[Function]}
+        role={null}
+      >
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          itemName 2
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          itemType
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight MuiTableCell-sizeMedium css-177gid-MuiTableCell-root"
+        >
+          12$
+        </td>
+      </tr>
+      <tr
+        className="MuiTableRow-root sc-eCYdqJ eKANlz css-1q1u3t4-MuiTableRow-root"
+        data-testid="bodyTableRow_2"
+        onClick={[Function]}
+        role={null}
+      >
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          itemName 3
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          itemType
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight MuiTableCell-sizeMedium css-177gid-MuiTableCell-root"
+        >
+          13$
+        </td>
+      </tr>
+    </tbody>
+  </table>,
+  <div
+    className="sc-bczRLJ gFctAL"
+  />,
+]
+`;
